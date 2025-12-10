@@ -1,16 +1,16 @@
-Apenas colheita manual
+# Apenas colheita manual
 harvest()
 
-colheita automática, mas pouco eficiente
+# colheita automática, mas pouco eficiente
 while True:
 	harvest()
 
-colheita automática, mais eficiente
+# colheita automática, mais eficiente
 while True:
 	if can_harvest():
 		harvest()
 
-colheita automática,  mais eficiente mais zona de colheitas
+# colheita automática,  mais eficiente mais zona de colheitas
 while True:
 	if can_harvest():
 		harvest()
