@@ -7,8 +7,15 @@ while True:
 		move(North) # após colher, move para o norte.
 		plant.(Entities.Bush) # e planta o Bush.
 		
-		
-
 	#se ele não pode colher, move para o norte, voltando para o ínicio do código e repetindo tudo novamente.
 	else:
 		move(North)
+
+# com o "for i in range()" desbloqueado, pode-se usar essa mesma lógica de cima, mas sem usar o if.
+
+for i in range(3)
+	can_harvest()
+	harvest()
+	move(North)
+	
+move(East)
