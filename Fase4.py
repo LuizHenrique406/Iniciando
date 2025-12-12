@@ -1,4 +1,5 @@
 # mesma situação que a fase3, porém, com o else.
+
 while True:
 	if can_harvest():
 		harvest()
