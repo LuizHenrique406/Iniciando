@@ -1,4 +1,4 @@
-# mesma situação que a fase3, porém, com o else.
+# mesma situação que a fase3, porém, com o else e atualizações no código.
 
 while True:
 	if can_harvest():
