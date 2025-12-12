@@ -1,4 +1,10 @@
-# colheita automática, mais eficiente, agora pode-se colher no momento certo
+# agora com o if desbloqueado, pode-se usar condições com os valores boooleanos, true e false.
+
+# enquanto while for true
 while True:
+	
+	# vai repetir a condição se poder colher
 	if can_harvest():
+
+		#se pode colher, ele colhe
 		harvest()
