@@ -3,8 +3,8 @@
 while True:
 	if can_harvest():
 		harvest()
-		move(North)
-		plant.(Entities.Bush)
+		move(North) # após colher, move para o norte.
+		plant.(Entities.Bush) # e planta o Bush.
 		
 		
 
