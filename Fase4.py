@@ -3,6 +3,10 @@
 while True:
 	if can_harvest():
 		harvest()
+		move(North)
+		plant.(Entities.Bush)
+		
+		
 
 	#se ele não pode colher, move para o norte, voltando para o ínicio do código e repetindo tudo novamente.
 	else:
