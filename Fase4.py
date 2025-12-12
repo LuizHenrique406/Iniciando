@@ -11,7 +11,7 @@ while True:
 	else:
 		move(North)
 
-# com o "for i in range()" desbloqueado, pode-se usar essa mesma lógica de cima, mas sem usar o if.
+# com o "for" desbloqueado, pode-se usar essa mesma lógica de cima, mas sem usar o if.
 
 for i in range(3)
 	can_harvest()
