@@ -1,4 +1,4 @@
-# Apenas apenas usando uma função no ínicio, chamando ela várias vezes para obter mais feno
+# Apenas usando uma função no ínicio, chamando ela várias vezes para obter mais feno
 harvest()
 harvest()
 harvest()
