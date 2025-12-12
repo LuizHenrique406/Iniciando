@@ -1,4 +1,5 @@
 # mesma situação que a fase3, porém, com o else e atualizações no código.
+# com essas atualições, pode-se obter tanto o Hay quanto o Bush.
 
 while True:
 	if can_harvest():
